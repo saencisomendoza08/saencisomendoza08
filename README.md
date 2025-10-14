@@ -1,11 +1,4 @@
-<div style="background-image: url('https://your-image-url.com/image.jpg'); 
-            background-size: cover; 
-            padding: 50px; 
-            color: white; 
-            text-align: center; 
-            border-radius: 10px;">
-
-## Hi!, I´m Sergio 👋
+## Hi, I´m Sergio 👋
 
 🎮 Videogame and interactive enviroments technologist at SENA<br/>
 🎓 Game Development student at TECH UNIVERSITY<br/>
