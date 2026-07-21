@@ -1,9 +1,9 @@
 ## Hi, I´m Sergio 👋
 
-🎮 Videogame and interactive enviroments technologist at SENA<br/>
-🎓 Game Development student at TECH UNIVERSITY<br/>
-🐞 Junior software testing engineer at EPAM SYSTEMS<br/>
-📌 Bogotá | Creating cool stuff<br/>
+🎮 Videogame and Interactive Environment Development | SENA<br/>
+🎓 Bachelor's in Videogame Development | TECH Global University<br/>
+🐞 QA Software Testing Engineer at EPAM Systems<br/>
+📌 Bogotá | Building and testing high-quality game experiences<br/>
 
 
 ## 🌐 Socials:
