@@ -1,29 +1,112 @@
-## Hi, I´m Sergio 👋
+# Hi, I'm Sergio 👋
 
-🎮 Videogame and Interactive Environment Development | SENA<br/>
-🎓 Bachelor's in Videogame Development | TECH Global University<br/>
-🐞 QA Software Testing Engineer at EPAM Systems<br/>
-📌 Bogotá | Building and testing high-quality game experiences<br/>
+### 🎮 Game QA Engineer | Game Developer
 
+I'm a **Game QA Engineer at EPAM Systems** and a **Video Game Developer** from Colombia passionate about creating polished, immersive, and player-focused gaming experiences.
 
-## 🌐 Socials:
-[![Itch.io]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saencisom](https://saem808.itch.io/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-alejandro-enciso-mendoza-5643182b1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/saencisomendoza808) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergioencisomendoza808@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saencisomendoza08&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saencisomendoza08&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saencisomendoza08&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saencisomendoza08&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saencisomendoza08&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+Currently pursuing a **Bachelor's Degree in Video Game Development** while continuously expanding my skills in **game programming, software testing, artificial intelligence, and emerging game technologies.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saencisomendoza08&icon=6&color=2)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+- 🎮 Game QA Engineer at **EPAM Systems**
+- 🎓 Bachelor's Degree in Video Game Development — **TECH Global University**
+- 🎓 Technologist in Videogame and Interactive Environment Development — **SENA**
+- 📍 Bogotá, Colombia
+- 🌎 Open to international opportunities
+
+---
+
+# 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-alejandro-enciso-mendoza-5643182b1)
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://saem808.itch.io)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](Coming Soon)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioencisomendoza808@gmail.com)
+
+---
+
+# 🎯 Current Focus
+
+- 🎮 Game Development
+- 🐞 Game Quality Assurance
+- 🤖 Artificial Intelligence for Games
+- 🕹️ Gameplay Programming
+- 📚 Building professional portfolio projects
+
+---
+
+# 💻 Tech Stack
+
+### 🎮 Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godot-engine)
+
+### 💻 Programming
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### 🎨 Design
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+# 🎮 Featured Projects
+
+🚧 **Coming Soon**
+
+- 🦖 Rex-Dino
+- 🤖 AI for Games Experiments
+- 🐞 Game QA Portfolio
+- 🎮 Unity Gameplay Systems
+- 🕹️ Unreal Engine Projects
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=saem808&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=saem808&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saem808&theme=tokyonight&layout=compact&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=saem808&theme=tokyonight&no-frame=true&margin-w=8)
+
+---
+
+# 🎯 Career Goal
+
+My goal is to contribute to **AAA and Indie Game Studios** by developing high-quality interactive experiences while specializing in **Game Development, Game Quality Assurance, and Artificial Intelligence for Games.**
+
+I enjoy learning new technologies, solving technical challenges, and continuously improving my skills to create memorable gaming experiences.
+
+---
+
+⭐ Thanks for visiting my profile!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
