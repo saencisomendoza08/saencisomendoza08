@@ -103,9 +103,9 @@ Currently pursuing a **Bachelor's Degree in Video Game Development** while conti
 
 ---
 
-# 🏆 GitHub Trophies
+//# 🏆 GitHub Trophies//
 
-![](https://github-profile-trophy.vercel.app/?username=saem808&theme=tokyonight&no-frame=true&margin-w=8)
+//![](https://github-profile-trophy.vercel.app/?username=saem808&theme=tokyonight&no-frame=true&margin-w=8)//
 
 ---
 
