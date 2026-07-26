@@ -95,11 +95,11 @@ Currently pursuing a **Bachelor's Degree in Video Game Development** while conti
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=saem808&theme=tokyonight&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=saencisomendoza08&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=saem808&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=saencisomendoza08&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saem808&theme=tokyonight&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saencisomendoza08=tokyonight&layout=compact&hide_border=true)
 
 ---
 
